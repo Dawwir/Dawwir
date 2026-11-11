@@ -1,4 +1,6 @@
-## Hi there 👋
+   # Dawwir
+   Find restaurants and coffee shops in Lebanon.
+   By Mariam Zrein and Mohammad Hawa.
 
 <!--
 **Dawwir/Dawwir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
